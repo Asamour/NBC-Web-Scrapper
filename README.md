@@ -3,7 +3,11 @@ Scrapping headlines off of NBC or any applicablw website. The code can easily be
 
 Languages and Packages used: 
 Javascript
+
 CSS
+
 AJAX
+
 Axios
+
 Cheerio 
